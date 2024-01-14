@@ -127,25 +127,25 @@ button:hover span{
     text-transform: uppercase;
 }
 
-.aboutme{
+.about{
     margin: 20px auto;
     font-size: 15px;
     font-weight: 100;
     line-height: 15px;
 }
-.aboutme h1{
+.about h1{
     margin: 20px auto;
     font-size: 35px;
     font-weight: 100;
     line-height: 20px;
 }
-.aboutme p{
+.about p{
     margin: 20px auto;
     font-size: 20px;
     font-weight: 100;
     line-height: 20px;
 }
-.aboutme ul li{
+.about ul li{
     margin: none 25px;
     list-style: none;
     font-size: 20px;
